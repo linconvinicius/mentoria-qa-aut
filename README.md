@@ -20,7 +20,7 @@ mentoria-qa-aut/
 │   └── pages/                         # Page Objects
 │       ├── loginPage.robot            # Elementos e keywords da página de login
 │       ├── produtosPage.robot         # Elementos e keywords da página de produtos
-│       └── carrinhoPage.robot         # Elementos e keywords do carrinho
+│       └── checkoutPage.robot         # Elementos e keywords do checkout
 ├── tests/                             # Testes
 │   └── compras.robot                  # Cenários de teste
 └── README.md                          # Este arquivo
