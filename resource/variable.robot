@@ -1,3 +1,6 @@
+*** Settings ***
+Resource    ../resource/main.robot
+
 *** Variables ***
 ${URL}                    https://www.saucedemo.com/
 ${USER}                   standard_user
